@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: Tahoma, sans-serif;
+}
+ 
+#container {
+    margin: 20px auto;
+    width: 600px;
+    height: 500px;
+    border: 2px solid black;
+    background: url('../images/bg.png') 0 0 repeat;
+}
+
+#dead {
+        display: none;
+        width: 100%;
+        text-align: center;
+        margin-top: 100px;
+    }

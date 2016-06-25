@@ -1,0 +1,8 @@
+{
+  "name": "canvas-game",
+  "version": "1.0.0",
+  "dependencies": {
+    "konva": "^0.15.0",
+    "gulp-browserify": "^0.5.1"
+  }
+}
